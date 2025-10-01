@@ -43,7 +43,7 @@ conda activate higgscp
 ##  Get started
 To traint the Transformer network.
 ```bash
-python main.py fit --config config/config_Transformer.yaml
+python main.py fit --config config/config.yaml
 ```
 
 For testing the network one need to retore the weigths and the configuration file from the best epoch results as 
