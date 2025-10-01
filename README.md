@@ -11,7 +11,7 @@ Before you begin, ensure you have git installed on your machine to clone this re
 
 ## Installation
 
-Follow these steps to set up your environment and start analyzing the Higgs boson's CP structure.
+Follow these steps to set up your environment and start time series forecasting. 
 
 ### Step 1: Clone the Repository
 
