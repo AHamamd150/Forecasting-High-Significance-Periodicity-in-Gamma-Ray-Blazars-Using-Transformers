@@ -1,7 +1,7 @@
 # Forecasting-High-Significance-Periodicity-in-Gamma-Ray-Blazars-Using-Transformers
-## Authors: $$\textcolor{blue}{\text{Mohamed Hashad, Amr El-Zant and Ahmed Hamad}}$$ 
+## Authors: $$\textcolor{blue}{\text{Mohamed Hashad, Amr El-Zant and Ahmed Hammad}}$$ 
 
-<img width="569" height="582" alt="Screenshot 2025-10-01 at 5 03 37 PM" src="https://github.com/user-attachments/assets/91bf4c5b-8db8-4f5f-af67-990d2540a28b" />
+<img width="1205" height="666" alt="Screenshot 2025-10-01 at 5 07 23 PM" src="https://github.com/user-attachments/assets/1c058b25-e7d9-488f-b276-2267e2a6199a" />
 
 
 
