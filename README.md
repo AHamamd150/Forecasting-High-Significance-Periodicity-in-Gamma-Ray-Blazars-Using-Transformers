@@ -12,8 +12,7 @@ Follow these steps to set up your environment and start analyzing the Higgs boso
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/AHamamd150/Conditional_GNN.git
-cd Conditional_GNN/GNN
+git https://github.com/AHamamd150/Forecasting-High-Significance-Periodicity-in-Gamma-Ray-Blazars-Using-Transformers.git
 ```
 
 ### Step 2: Install Conda
