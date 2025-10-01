@@ -29,7 +29,7 @@ If you do not have Miniconda or Anaconda installed, download and install it from
 
 This project relies on several dependencies listed in `environment.yml`, including libraries such as NumPy, Pandas, Matplotlib, tqdm, h5py, scikit-learn, PyTorch, PyTorch Geometric, PyTorch Lightning, and Torchmetrics.
 
-To install all dependencies at once and create a Conda environment named `higgscp`, run the following command in your terminal:
+To install all dependencies at once and create a Conda environment, run the following command in your terminal:
 
 ```bash
 conda env create -f environment.yml
@@ -37,7 +37,7 @@ conda env create -f environment.yml
 
 ### Step 4: Activate the Environment
 ```bash
-conda activate higgscp
+conda activate Blazars_Forecasting
 ```
 
 ##  Get started
