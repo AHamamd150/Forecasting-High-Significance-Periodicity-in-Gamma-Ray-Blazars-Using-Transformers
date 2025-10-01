@@ -1,4 +1,9 @@
 # Forecasting-High-Significance-Periodicity-in-Gamma-Ray-Blazars-Using-Transformers
+## Authors: $$\textcolor{blue}{\text{Mohamed Hashad, Amr El-Zant and Ahmed Hamad}}$$ 
+
+![Uploading image.png…]()
+
+
 ## Prerequisites
 
 Before you begin, ensure you have git installed on your machine to clone this repository. If git is not installed, you can download it from [Git's official site](https://git-scm.com/downloads).
@@ -34,5 +39,20 @@ conda env create -f environment.yml
 conda activate higgscp
 ```
 
-## Usage
+##  Get started
+To traint the Transformer network.
+```bash
+python main.py fit --config config/config_Transformer.yaml
+```
+To traint the Graph Attention network.
+```bash
+python main.py fit --config config/config_GAT.yaml
+```
+
+For testing the network one need to retore the weigths and the configuration file from the best epoch results as 
+
+```bash
+python main.py test -c checkpoints/version_0/config.yaml --ckpt_path checkpoints/version_0/checkpoints/best_checkpoint.ckpt
+```
+
 
